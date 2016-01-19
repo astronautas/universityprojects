@@ -1,2 +1,2 @@
-# universityprojects
-University Projects (Vilnius University. Software Engineering)
+# University Projects
+Various Software Engineering projects of mine, published while studying at Vilnius University.
