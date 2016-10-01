@@ -1,0 +1,9 @@
+C:\Users\Lukas\Desktop\MIF\TOP\electric_car_rental\electric_car_rental\bin\Debug\electric_car_rental.exe.config
+C:\Users\Lukas\Desktop\MIF\TOP\electric_car_rental\electric_car_rental\bin\Debug\electric_car_rental.exe
+C:\Users\Lukas\Desktop\MIF\TOP\electric_car_rental\electric_car_rental\bin\Debug\electric_car_rental.pdb
+C:\Users\Lukas\Desktop\MIF\TOP\electric_car_rental\electric_car_rental\obj\Debug\electric_car_rental.csprojResolveAssemblyReference.cache
+C:\Users\Lukas\Desktop\MIF\TOP\electric_car_rental\electric_car_rental\obj\Debug\electric_car_rental.exe
+C:\Users\Lukas\Desktop\MIF\TOP\electric_car_rental\electric_car_rental\obj\Debug\electric_car_rental.pdb
+C:\Users\Lukas\Desktop\MIF\TOP\electric_car_rental\electric_car_rental\bin\Debug\Pluralize.dll
+C:\Users\Lukas\Desktop\MIF\TOP\electric_car_rental\electric_car_rental\bin\Debug\Pluralize.pdb
+C:\Users\Lukas\Desktop\MIF\TOP\electric_car_rental\electric_car_rental\bin\Debug\Pluralize.xml
